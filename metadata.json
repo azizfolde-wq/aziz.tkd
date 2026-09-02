@@ -1,0 +1,7 @@
+{
+  "name": "Kurdish Utility",
+  "description": "All-in-one Kurdish utility app featuring live digital clock, Kurdish & Gregorian calendar, weather forecast, scientific calculator, and RTL Sorani Kurdish interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="36dp"
+    android:height="24dp"
+    android:viewportWidth="900"
+    android:viewportHeight="600">
+    <!-- Red stripe -->
+    <path
+        android:fillColor="#FFE41E26"
+        android:pathData="M0,0h900v200h-900z"/>
+    <!-- White stripe -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M0,200h900v200h-900z"/>
+    <!-- Green stripe -->
+    <path
+        android:fillColor="#FF00843D"
+        android:pathData="M0,400h900v200h-900z"/>
+    <!-- Central Golden Sun -->
+    <path
+        android:fillColor="#FFFEB81C"
+        android:pathData="M450,300m-60,0a60,60 0,1 1,120 0a60,60 0,1 1,-120 0"/>
+</vector>
